@@ -10,6 +10,6 @@ Helps with some dumb people that forget that capitalisation matters and with som
 # Legal?
 Yep
 # Download?
-[Here you go!](https://drive.google.com/file/d/1_wKoJtsbHvZ_aHV2cHhH_9UGxl91c5IH/view?usp=sharing)
+[Here you go!](https://github.com/Gcat101/discord-url-bruteforcer/releases/tag/1.0)
 # More info?
 Works ONLY on non-bosted discord invite links.
