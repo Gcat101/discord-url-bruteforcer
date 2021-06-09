@@ -43,4 +43,4 @@ for posurl in posurls:
 if (correcturl == True):
     print(truelink)
 else:
-    print("Hmmmm.... This doesn't seem like a pastebin link... Check the link that you've inputed.")
+    print("Hmmmm.... This doesn't seem like a discord link... Check the link that you've inputed.")
